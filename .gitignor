@@ -1,0 +1,6 @@
+#Ignor temp and log file
+/tmp/*
+/log/*
+!/log/.keep
+!/log/.keep
+/vendor/
